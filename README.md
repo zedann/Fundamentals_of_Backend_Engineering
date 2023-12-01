@@ -1,7 +1,7 @@
 # Fundamentals of Backend Engineering
 
 - Backend Communication Design Patterns
-  - Request Respose
+  - Request Response
   - Synchronous vs Asynchronous
   - Push
   - Polling
