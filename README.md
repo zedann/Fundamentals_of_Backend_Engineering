@@ -6,3 +6,5 @@
   - Push
   - Polling
   - Long Polling
+  - Server Sent Events
+  - Publish Subscribe
