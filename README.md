@@ -8,3 +8,15 @@
   - Long Polling
   - Server Sent Events
   - Publish Subscribe
+  - Multiplexing vs Demultiplexing
+  - Stateless vs Stateful
+  - Sidecar
+- Protocols
+  - IP
+  - UDP
+  - TCP
+  - TLS
+  - HTTP/1.1,2,3
+  - WebSockets
+  - gRPC
+  - WebRTC
