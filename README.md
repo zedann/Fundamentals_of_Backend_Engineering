@@ -20,3 +20,7 @@
   - WebSockets
   - gRPC
   - WebRTC
+- Backend Execution Patterns
+  - accept request
+  - dispatch request
+  - execute request 
