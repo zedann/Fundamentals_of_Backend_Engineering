@@ -21,6 +21,6 @@
   - gRPC
   - WebRTC
 - Backend Execution Patterns
-  - accept request
-  - dispatch request
-  - execute request 
+  - Accept Request
+  - Dispatch Request
+  - Execute Request 
